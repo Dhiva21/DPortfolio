@@ -202,3 +202,58 @@
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
   }
 }
+.red-text-gradient {
+  background: #cb2d3e;
+  background: -webkit-linear-gradient(to top, #ef473a, #cb2d3e);
+  background: linear-gradient(to top, #ef473a, #cb2d3e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.purple-text-gradient {
+  background: #41295a;
+  background: -webkit-linear-gradient(to top, #2f0743, #41295a);
+  background: linear-gradient(to top, #2f0743, #41295a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.teal-text-gradient {
+  background: #43cea2;
+  background: -webkit-linear-gradient(to top, #185a9d, #43cea2);
+  background: linear-gradient(to top, #185a9d, #43cea2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sky-text-gradient {
+  background: #2193b0;
+  background: -webkit-linear-gradient(to top, #6dd5ed, #2193b0);
+  background: linear-gradient(to top, #6dd5ed, #2193b0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sunset-text-gradient {
+  background: #ff512f;
+  background: -webkit-linear-gradient(to top, #dd2476, #ff512f);
+  background: linear-gradient(to top, #dd2476, #ff512f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ocean-text-gradient {
+  background: #00c6ff;
+  background: -webkit-linear-gradient(to top, #0072ff, #00c6ff);
+  background: linear-gradient(to top, #0072ff, #00c6ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fire-text-gradient {
+  background: #f12711;
+  background: -webkit-linear-gradient(to top, #f5af19, #f12711);
+  background: linear-gradient(to top, #f5af19, #f12711);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

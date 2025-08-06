@@ -47,14 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As a proficient software developer, I excel in HTML, CSS, JavaScript,
-        and jQuery, and I'm currently expanding my expertise into React. With a
-        solid foundation in these technologies, I leverage my skills to craft
-        innovative solutions. My background includes collaborating closely with
-        clients to develop efficient, scalable, and user-friendly applications
-        that tackle real-world challenges. I'm known for my adaptability and
-        commitment to learning, making me a valuable asset to any team. Let's
-        collaborate to turn your ideas into reality!
+      As a Programmer Analyst, I contribute to the full software development lifecycle, from analyzing business requirements to designing, developing, and deploying web applications.
+  <br />
+I specialize in building responsive and dynamic user interfaces using technologies such as React.js, Redux, Tailwind CSS, Bootstrap, Material UI, and CodeMirror. On the backend, I develop robust RESTful APIs using Node.js, Express.js, and manage data with MongoDB.
+<br />
+My skillset also includes working with JavaScript, TypeScript, HTML5, CSS3, jQuery, D3.js, and integrating AI-driven tools like OpenAI (ChatGPT APIs) for intelligent automation and content generation.
+<br />
+I collaborate closely with business analysts, UI/UX designers, and QA engineers to ensure high-quality, maintainable solutions that align with business goals. My role bridges both technical implementation and functional strategy, enabling me to design scalable software architectures while ensuring end-user and business alignment.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
